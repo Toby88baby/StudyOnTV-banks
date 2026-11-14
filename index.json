@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "name": "StudyOnTV 题库共享",
+  "banks": [
+    {
+      "name": "开放题型示例",
+      "subject": "综合",
+      "level": "小学",
+      "count": 24,
+      "author": "StudyOnTV",
+      "license": "CC BY 4.0",
+      "description": "覆盖单选、多选、判断、填空、主观五种题型和八个学科的示例题库，可直接导入。",
+      "file": "open-play.json",
+      "url": "https://cdn.jsdelivr.net/gh/chadyi/StudyOnTV-banks@main/banks/open-play.json",
+      "mirror": "https://raw.githubusercontent.com/chadyi/StudyOnTV-banks/main/banks/open-play.json",
+      "sha256": "dcf57dbafc2b5fdd55d5a8a8c57f32950a8ff51f8cfb7ba3347da33a4c2d389e"
+    }
+  ]
+}
